@@ -14,4 +14,4 @@
 #### Goal of the project
 **Question:** Does sleep have a positive or negative correlation with academic success? Which factor is more significant?
 
-**Answer:** According to [aquired dataset](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors), there is no clear connection between the amount of sleep and academic performance. Parental education and access to resources are more significant factors.
+**Answer:** According to [acquired dataset](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors), there is no clear connection between the amount of sleep and academic performance. Parental education and access to resources are more significant factors.
