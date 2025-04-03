@@ -1,6 +1,6 @@
 # Visualization of Factors of Educational Success
 
-**Run using Processing (p5.js)**
+**Run using Processing (p5.js)** or visit [demo page](https://osvaldaleks.github.io/visualization-of-factors-of-educational-success/FaktorjiUspeha/)
 
 **Description of Functionality:**
 - **Filtering:**
